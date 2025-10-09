@@ -56,3 +56,9 @@ Alô, eu sou o **Cleyton Sousa**, um **FullStack Software Engineering e Devops**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cleyton-S-santos&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Cleyton's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-S-santos&theme=shades-of-purple"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/github-contribution-grid-snake.svg">
+</picture>
