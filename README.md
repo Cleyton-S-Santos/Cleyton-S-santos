@@ -8,24 +8,24 @@
 <br />
 <br />
 
-Hi there, I'm **Cleyton Sousa**, a **FullStack Software Engineering and Devops** 🚀 from Recife, pernambuco.
+Hi there, I'm **Cleyton Sousa**, a **FullStack Software Engineering Senior** 🚀 from Recife, pernambuco.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 🌱 I’m currently working as FullStack Software Engineering and Devops (FullCycle BTW) With many AWS service and React(vite), nextjs, NestJs and Java Spring boot, faith and Coffe. 
+- 🌱 I’m currently working as FullStack Software Engineering With many AWS service and React(vite), nextjs, NestJs, React Native and Java Spring boot, faith and Coffe. 
 - 🤔 My main interest now is to develop my leadership skills and further improve my coding skills and code review skills ;b
 - 💬 Ask me about anything, I love to answer and teatch who want learn!
 - 📫 Email me at [Click here](mailto:cleytonsousadossantos.2021@gmail.com).
 
 
-Alô, eu sou o **Cleyton Sousa**, um **FullStack Software Engineering e Devops** 🚀 de Recife, pernambuco.(Oxente)
+Alô, eu sou o **Cleyton Sousa**, sou **FullStack Software Engineering senior** 🚀 de Recife, pernambuco.(Oxente)
 
 **Sobre mim!**
 
-- 🌱 Eu estou atualmente trabalhando como fullStack e devops (FullCyle), atuo com React(vite), nextjs, NestJs, Java Spring boot, muita fé e café.
-- 🤔 Meu principal interesse agora é o ecosistema do spring boot, tem um monte de coisa massa nele ;b
+- 🌱 Eu estou atualmente trabalhando como fullStack senior atuo com React(vite), nextjs, NestJs, react, react native, Java Spring boot, muita fé e café.
+- 🤔 Meu principal interesse agora é desenvolver minhas habilidades de liderança e continuar desenvolvendo minhas habilidades de desnvolvimento e code review ;b
 - 💬 Me pergunte o que quiser, eu amo responder e ensinar quem quer aprender.!
 - 📫 quer me mandar um email? Clica aqui -> [Click](mailto:cleytonsousadossantos.2021@gmail.com).
 
