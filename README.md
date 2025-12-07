@@ -1,64 +1,52 @@
-<h3 title="hehehe"> Hey 👋, I'm Cleyton!</h3>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<a href="https://br.linkedin.com/in/cleyton-s-santos">
-  <img align="left" alt="LinkdeIn" width="56px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=Cleyton-S-santos&color=blueviolet">
-<br />
-<br />
+###
 
-Hi there, I'm **Cleyton Sousa**, a **FullStack Software Engineering Senior** 🚀 from Recife, pernambuco.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+###
 
-**About Me!**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-- 🌱 I’m currently working as FullStack Software Engineering With many AWS service and React(vite), nextjs, NestJs, React Native and Java Spring boot, faith and Coffe. 
-- 🤔 My main interest now is to develop my leadership skills and further improve my coding skills and code review skills ;b
-- 💬 Ask me about anything, I love to answer and teatch who want learn!
-- 📫 Email me at [Click here](mailto:cleytonsousadossantos.2021@gmail.com).
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Cleyton-S-Santos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Cleyton-S-Santos&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-Alô, eu sou o **Cleyton Sousa**, sou **FullStack Software Engineering senior** 🚀 de Recife, pernambuco.(Oxente)
-
-**Sobre mim!**
-
-- 🌱 Eu estou atualmente trabalhando como fullStack senior atuo com React(vite), nextjs, NestJs, react, react native, Java Spring boot, muita fé e café.
-- 🤔 Meu principal interesse agora é desenvolver minhas habilidades de liderança e continuar desenvolvendo minhas habilidades de desnvolvimento e code review ;b
-- 💬 Me pergunte o que quiser, eu amo responder e ensinar quem quer aprender.!
-- 📫 quer me mandar um email? Clica aqui -> [Click](mailto:cleytonsousadossantos.2021@gmail.com).
-
-
-**Languages and Tools:**  
-
-<h4>My <u>Front end</u> skills</h4>
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"></code>
-
-<h4>My <u>Back end</u> skills</h4>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"></code>
-<code><img height="35" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-
-<h4>My <u>test</u> skills</h4>
-
-<code><img height="30" src="https://testing-library.com/img/octopus-128x128.png"></code>
-<code><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"></code>
-<code><img height="30" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_5b9d2c5176ad8f918a0ad84241ab9673/junit.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cleyton-S-santos&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Cleyton's GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-S-santos&theme=shades-of-purple"/>
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph.svg">
 </picture>
+
+###
