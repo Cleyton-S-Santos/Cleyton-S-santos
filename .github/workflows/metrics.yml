@@ -43,4 +43,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
 
-          plugin_stars: yes
+          plugin_stars: no
