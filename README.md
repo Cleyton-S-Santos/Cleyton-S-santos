@@ -88,6 +88,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Cleyton-s-santos&theme=dark&hide_border=false" height="150" alt="trophy graph"  />
 </div>
 
+![Metrics](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/main/github-metrics.svg)
+
 ###
 
 <picture>
