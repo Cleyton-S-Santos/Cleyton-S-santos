@@ -61,6 +61,12 @@
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
 <div align="center">
@@ -84,18 +90,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Cleyton-s-santos&theme=dark&hide_border=false" height="150" alt="trophy graph"  />
+<div style="display: flex; justify-content: center; align-items: center; padding: 20px; margin: 0 auto;">
+  <img src="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/main/github-metrics.svg">
 </div>
 
-![Metrics](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/main/github-metrics.svg)
-
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cleyton-S-Santos/Cleyton-S-Santos/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
